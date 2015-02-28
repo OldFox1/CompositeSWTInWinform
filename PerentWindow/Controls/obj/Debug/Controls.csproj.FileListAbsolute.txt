@@ -1,0 +1,6 @@
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\bin\Debug\Controls.dll
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\bin\Debug\Controls.pdb
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\obj\Debug\Controls.CommunicationControl.resources
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\obj\Debug\Controls.dll
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\Controls\obj\Debug\Controls.pdb

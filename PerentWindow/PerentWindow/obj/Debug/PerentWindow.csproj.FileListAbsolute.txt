@@ -1,0 +1,11 @@
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\bin\Debug\PerentWindow.exe.config
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\bin\Debug\PerentWindow.exe
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\bin\Debug\PerentWindow.pdb
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\bin\Debug\Controls.dll
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\bin\Debug\Controls.pdb
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.csprojResolveAssemblyReference.cache
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.Form1.resources
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.Properties.Resources.resources
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.csproj.GenerateResource.Cache
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.exe
+c:\users\barak\documents\visual studio 2013\Projects\PerentWindow\PerentWindow\obj\Debug\PerentWindow.pdb
